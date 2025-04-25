@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # X-lab Official Website
 
  Official website of X-lab open laboratory, you can view the site on http://www.x-lab.info.
@@ -55,3 +56,8 @@ For developers, the `Git` is **necessary**, but the `Hugo` is **not necessary** 
 [hugo-version]: https://github.com/gohugoio/hugo/releases
 
 [CONTRIBUTING]: ./CONTRIBUTING.md
+=======
+# 《云计算系统：开发者视角》实践
+
+实践资源仓库
+>>>>>>> 97fcf9a0e3150024479407c27dfcac9095209e3e
